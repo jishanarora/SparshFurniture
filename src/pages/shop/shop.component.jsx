@@ -1,7 +1,6 @@
 import React from 'react'
 import ShopData from './shop.data'
 import CollectionsPreview from '../../components/collections-preview/collections-preview.component'
-import {Link} from "react-router-dom";
 
 class ShopPage extends React.Component{
     constructor(props)
