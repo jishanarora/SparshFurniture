@@ -7,7 +7,7 @@ const Header = () =>
     return(
         <div className="header">
         <Link to="/" className="logoConatiner">
-            <img src="/images/sparshFurnitureLogo.png" style={{width:"200px",height:"75px"}} />
+            <img alt="logo" src="/images/sparshFurnitureLogo.png" style={{width:"200px",height:"75px"}} />
          </Link>
          <div className="options">
           <Link className="option" to="/shop">
@@ -15,6 +15,9 @@ const Header = () =>
           </Link>
           <Link className="option" to="/contact">
               Contact
+          </Link>
+          <Link className="option" to="/sign-in">
+              Sign In
           </Link>
          </div>
         </div>
