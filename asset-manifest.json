@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SparshFurniture/static/css/main.0ccbafab.chunk.css",
-    "main.js": "/SparshFurniture/static/js/main.61fc8385.chunk.js",
-    "main.js.map": "/SparshFurniture/static/js/main.61fc8385.chunk.js.map",
+    "main.js": "/SparshFurniture/static/js/main.2cd6c09c.chunk.js",
+    "main.js.map": "/SparshFurniture/static/js/main.2cd6c09c.chunk.js.map",
     "runtime-main.js": "/SparshFurniture/static/js/runtime-main.5813b8fe.js",
     "runtime-main.js.map": "/SparshFurniture/static/js/runtime-main.5813b8fe.js.map",
     "static/js/2.10362fb4.chunk.js": "/SparshFurniture/static/js/2.10362fb4.chunk.js",
     "static/js/2.10362fb4.chunk.js.map": "/SparshFurniture/static/js/2.10362fb4.chunk.js.map",
     "index.html": "/SparshFurniture/index.html",
-    "precache-manifest.b0ac1b21f665556d8577fa68df6588ab.js": "/SparshFurniture/precache-manifest.b0ac1b21f665556d8577fa68df6588ab.js",
+    "precache-manifest.166af69a7f80716374c1b5fddb028cac.js": "/SparshFurniture/precache-manifest.166af69a7f80716374c1b5fddb028cac.js",
     "service-worker.js": "/SparshFurniture/service-worker.js",
     "static/css/main.0ccbafab.chunk.css.map": "/SparshFurniture/static/css/main.0ccbafab.chunk.css.map",
     "static/js/2.10362fb4.chunk.js.LICENSE.txt": "/SparshFurniture/static/js/2.10362fb4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5813b8fe.js",
     "static/js/2.10362fb4.chunk.js",
     "static/css/main.0ccbafab.chunk.css",
-    "static/js/main.61fc8385.chunk.js"
+    "static/js/main.2cd6c09c.chunk.js"
   ]
 }

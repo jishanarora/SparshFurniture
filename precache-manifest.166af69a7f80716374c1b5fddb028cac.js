@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43ddb6871cc330ce992d562b0e745b0f",
+    "revision": "04f243a297419c947cad6282dd986e03",
     "url": "/SparshFurniture/index.html"
   },
   {
-    "revision": "4df9fe9dc5a0f3ef1e7c",
+    "revision": "418dd17d927b1b39fdda",
     "url": "/SparshFurniture/static/css/main.0ccbafab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SparshFurniture/static/js/2.10362fb4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4df9fe9dc5a0f3ef1e7c",
-    "url": "/SparshFurniture/static/js/main.61fc8385.chunk.js"
+    "revision": "418dd17d927b1b39fdda",
+    "url": "/SparshFurniture/static/js/main.2cd6c09c.chunk.js"
   },
   {
     "revision": "0a54b166710983f4a22b",
