@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SparshFurniture/static/css/main.0ccbafab.chunk.css",
+    "main.js": "/SparshFurniture/static/js/main.06e8d6a4.chunk.js",
+    "main.js.map": "/SparshFurniture/static/js/main.06e8d6a4.chunk.js.map",
+    "runtime-main.js": "/SparshFurniture/static/js/runtime-main.5813b8fe.js",
+    "runtime-main.js.map": "/SparshFurniture/static/js/runtime-main.5813b8fe.js.map",
+    "static/js/2.10362fb4.chunk.js": "/SparshFurniture/static/js/2.10362fb4.chunk.js",
+    "static/js/2.10362fb4.chunk.js.map": "/SparshFurniture/static/js/2.10362fb4.chunk.js.map",
+    "index.html": "/SparshFurniture/index.html",
+    "precache-manifest.353306051e2cc0c6636989ef3d6f3f9c.js": "/SparshFurniture/precache-manifest.353306051e2cc0c6636989ef3d6f3f9c.js",
+    "service-worker.js": "/SparshFurniture/service-worker.js",
+    "static/css/main.0ccbafab.chunk.css.map": "/SparshFurniture/static/css/main.0ccbafab.chunk.css.map",
+    "static/js/2.10362fb4.chunk.js.LICENSE.txt": "/SparshFurniture/static/js/2.10362fb4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5813b8fe.js",
+    "static/js/2.10362fb4.chunk.js",
+    "static/css/main.0ccbafab.chunk.css",
+    "static/js/main.06e8d6a4.chunk.js"
+  ]
+}
