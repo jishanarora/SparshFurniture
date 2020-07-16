@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SparshFurniture/static/css/main.0ccbafab.chunk.css",
-    "main.js": "/SparshFurniture/static/js/main.06e8d6a4.chunk.js",
-    "main.js.map": "/SparshFurniture/static/js/main.06e8d6a4.chunk.js.map",
-    "runtime-main.js": "/SparshFurniture/static/js/runtime-main.5813b8fe.js",
-    "runtime-main.js.map": "/SparshFurniture/static/js/runtime-main.5813b8fe.js.map",
-    "static/js/2.10362fb4.chunk.js": "/SparshFurniture/static/js/2.10362fb4.chunk.js",
-    "static/js/2.10362fb4.chunk.js.map": "/SparshFurniture/static/js/2.10362fb4.chunk.js.map",
-    "index.html": "/SparshFurniture/index.html",
-    "precache-manifest.353306051e2cc0c6636989ef3d6f3f9c.js": "/SparshFurniture/precache-manifest.353306051e2cc0c6636989ef3d6f3f9c.js",
-    "service-worker.js": "/SparshFurniture/service-worker.js",
-    "static/css/main.0ccbafab.chunk.css.map": "/SparshFurniture/static/css/main.0ccbafab.chunk.css.map",
-    "static/js/2.10362fb4.chunk.js.LICENSE.txt": "/SparshFurniture/static/js/2.10362fb4.chunk.js.LICENSE.txt"
+    "main.css": "/sparshfurniture/static/css/main.0ccbafab.chunk.css",
+    "main.js": "/sparshfurniture/static/js/main.eafd6503.chunk.js",
+    "main.js.map": "/sparshfurniture/static/js/main.eafd6503.chunk.js.map",
+    "runtime-main.js": "/sparshfurniture/static/js/runtime-main.b6a0b964.js",
+    "runtime-main.js.map": "/sparshfurniture/static/js/runtime-main.b6a0b964.js.map",
+    "static/js/2.10362fb4.chunk.js": "/sparshfurniture/static/js/2.10362fb4.chunk.js",
+    "static/js/2.10362fb4.chunk.js.map": "/sparshfurniture/static/js/2.10362fb4.chunk.js.map",
+    "index.html": "/sparshfurniture/index.html",
+    "precache-manifest.a0e628a5f8febaffdcebdc90d80696d6.js": "/sparshfurniture/precache-manifest.a0e628a5f8febaffdcebdc90d80696d6.js",
+    "service-worker.js": "/sparshfurniture/service-worker.js",
+    "static/css/main.0ccbafab.chunk.css.map": "/sparshfurniture/static/css/main.0ccbafab.chunk.css.map",
+    "static/js/2.10362fb4.chunk.js.LICENSE.txt": "/sparshfurniture/static/js/2.10362fb4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5813b8fe.js",
+    "static/js/runtime-main.b6a0b964.js",
     "static/js/2.10362fb4.chunk.js",
     "static/css/main.0ccbafab.chunk.css",
-    "static/js/main.06e8d6a4.chunk.js"
+    "static/js/main.eafd6503.chunk.js"
   ]
 }
