@@ -10,32 +10,32 @@ class Directory extends React.Component
             sections: [
                 {
                     title: 'Sofas',
-                    imageUrl: 'images/sofa.jpg',
+                    imageUrl: '../images/sofa.jpg',
                     id: 1,
                     linkUrl: 'shop/sofas'
                   },
                   {
                     title: 'Dinning Tables',
-                    imageUrl: '/images/dinningTable.jpg',
+                    imageUrl: '../images/dinningTable.jpg',
                     id: 2,
                     linkUrl: 'shop/dinning-tables'
                   },
                   {
                     title: 'Office Furniture',
-                    imageUrl: '/images/officeFurniture.jpg',
+                    imageUrl: '../images/officeFurniture.jpg',
                     id: 3,
                     linkUrl: 'shop/office-furniture'
                   },
                   {
                     title: 'Home Decor',
-                    imageUrl: '/images/homeDecor.jpg',
+                    imageUrl: '../images/homeDecor.jpg',
                     size: 'large',
                     id: 4,
                     linkUrl: 'shop/home-decor'
                   },
                   {
                     title: 'Beds',
-                    imageUrl: '/images/beds.jpg',
+                    imageUrl: '../images/beds.jpg',
                     size: 'large',
                     id: 5,
                     linkUrl: 'shop/beds'
