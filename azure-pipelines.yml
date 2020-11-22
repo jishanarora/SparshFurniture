@@ -4,7 +4,12 @@
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
 
 trigger:
-- main
+- master
+
+variables:
+  uiSource: '/src'
+  uiBuild: '$(uiSource)/build'
+
 
 pool:
   vmImage: 'ubuntu-latest'
@@ -16,7 +21,24 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
+    pushd $(uiSource)
     npm install
     npm run build
-- task: PublishBuildArtifacts@1
+    popd
+  displayName: 'npm install and build'
  
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(uiBuild)'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+    replaceExistingArchive: true
+
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+
