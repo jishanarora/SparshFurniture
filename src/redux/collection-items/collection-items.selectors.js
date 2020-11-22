@@ -4,5 +4,5 @@ const selectCollectionItems = state => state.itemCollection;
 
 export const selectCollectionItemsData=createSelector(
     [selectCollectionItems],
-    itemCollection=>itemCollection.collectionItemsData
+    itemCollection=> Object.keys(itemCollection.collectionItemsData).map(Key=> itemCollection.collectionItemsData[Key])
 )

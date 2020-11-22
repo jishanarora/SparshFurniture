@@ -1,7 +1,7 @@
 const INITIAL_STATE=
 {
-   collectionItemsData: [
-        {
+   collectionItemsData: {
+    'sofas': {
           id: 1,
           title: 'Sofas',
           routeName: 'Sofas',
@@ -62,7 +62,7 @@ const INITIAL_STATE=
             }
           ]
         },
-        {
+       'dinning-tables': {
           id: 2,
           title: 'Dinning Tables',
           routeName: 'dinning-tables',
@@ -117,7 +117,7 @@ const INITIAL_STATE=
             }
           ]
         },
-        {
+       'office-furniture': {
           id: 3,
           title: 'Office Furniture',
           routeName: 'office-furniture',
@@ -154,7 +154,7 @@ const INITIAL_STATE=
             }
           ]
         },
-        {
+        'home-decor':{
           id: 4,
           title: 'Home Decor',
           routeName: 'home-decor',
@@ -203,7 +203,7 @@ const INITIAL_STATE=
             }
           ]
         },
-        {
+        'beds':{
           id: 5,
           title: 'Beds',
           routeName: 'beds',
@@ -246,8 +246,9 @@ const INITIAL_STATE=
             }
           ]
         }
-      ]
-    }
+      }
+ }
+
 
 const collectionItemsReducer = (state=INITIAL_STATE,action)=>{
     switch(action){
