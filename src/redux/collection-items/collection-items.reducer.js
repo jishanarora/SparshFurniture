@@ -38,24 +38,18 @@ const INITIAL_STATE=
             },
             {
               id: 6,
-              name: 'Modern Style Couch',
-              imageUrl: "../images/sofas/modern.jpg",
-              price: 14
-            },
-            {
-              id: 7,
               name: 'Toffee Style',
               imageUrl: "../images/sofas/toffee.jpg",
               price: 18
             },
             {
-              id: 8,
+              id: 7,
               name: 'Boat Style',
               imageUrl: "../images/sofas/boat.jpg",
               price: 14
             },
             {
-              id: 9,
+              id: 8,
               name: 'Chester',
               imageUrl: "../images/sofas/chester.jpg",
               price: 16
@@ -68,49 +62,49 @@ const INITIAL_STATE=
           routeName: 'dinning-tables',
           items: [
             {
-              id: 10,
+              id: 9,
               name: 'Classic',
               imageUrl: "../images/dinningTables/classic.jpg",
               price: 500
             },
             {
-              id: 11,
+              id: 10,
               name: 'Marble',
               imageUrl: "../images/dinningTables/marble.jpg",
               price: 700
             },
             {
-              id: 12,
+              id: 11,
               name: 'Modern',
               imageUrl: "../images/dinningTables/modern.jpg",
               price: 1000
             },
             {
-              id: 13,
+              id: 12,
               name: 'Royal Gold',
               imageUrl: "../images/dinningTables/royalGold.jpg",
               price: 1100
             },
             {
-              id: 14,
+              id: 13,
               name: 'Classic Brown',
               imageUrl: "../images/dinningTables/classicBrown.jpg",
               price: 500
             },
             {
-              id: 15,
+              id: 14,
               name: 'Avantika',
               imageUrl: "../images/dinningTables/avantika.jpg",
               price: 750
             },
             {
-              id: 16,
+              id: 15,
               name: 'Classic Leather',
               imageUrl: "../images/dinningTables/classicLeather.jpg",
               price: 1500
             },
             {
-              id: 17,
+              id: 16,
               name: 'Modern Circle',
               imageUrl: "../images/dinningTables/modernCircle.jpg",
               price: 200
@@ -123,31 +117,31 @@ const INITIAL_STATE=
           routeName: 'office-furniture',
           items: [
             {
-              id: 18,
+              id: 17,
               name: 'Home Office Kit',
               imageUrl: "../images/officeFurniture/homeOfficeKit.jpg",
               price: 1250
             },
             {
-              id: 19,
+              id: 18,
               name: 'PolyNylon Chair',
               imageUrl: "../images/officeFurniture/polyNylonChair.jpg",
               price: 185
             },
             {
-              id: 20,
+              id: 19,
               name: 'L-Shape Counter',
               imageUrl: "../images/officeFurniture/lShapeCounter.jpg",
               price: 500
             },
             {
-              id: 21,
+              id: 20,
               name: 'L-Shape Desk',
               imageUrl: "../images/officeFurniture/lShapeDesk.jpg",
               price: 700
             },
             {
-              id: 22,
+              id: 21,
               name: 'Cabin Desk',
               imageUrl: "../images/officeFurniture/cabinDesk.jpg",
               price: 185
@@ -160,43 +154,37 @@ const INITIAL_STATE=
           routeName: 'home-decor',
           items: [
             {
-              id: 23,
+              id: 22,
               name: 'Black Table Lamp',
               imageUrl: "../images/homeDecor/blackTableLamp.jpg",
               price: 25
             },
             {
-              id: 24,
+              id: 23,
               name: 'Copper Curtains',
               imageUrl: "../images/homeDecor/copperCurtains.jpg",
               price: 20
             },
             {
-              id: 25,
+              id: 24,
               name: 'Modern Chandelier',
               imageUrl: "../images/homeDecor/modernChandelier.jpg",
               price: 80
             },
             {
-              id: 26,
+              id: 25,
               name: 'Designer Paintings',
               imageUrl: "../images/homeDecor/designerPaintings.jpg",
               price: 50
             },
             {
-              id: 27,
+              id: 26,
               name: 'Home-Shaped Mini Shelves',
               imageUrl: "../images/homeDecor/homeShapedMiniShelves.jpg",
               price: 45
             },
             {
-              id: 28,
-              name: 'Pillow Set',
-              imageUrl: "../images/homeDecor/pillowSet.jpg",
-              price: 20
-            },
-            {
-              id: 29,
+              id: 27,
               name: 'White Comforter Set',
               imageUrl: "../images/homeDecor/whiteComforterSet.jpg",
               price: 150
@@ -209,37 +197,37 @@ const INITIAL_STATE=
           routeName: 'beds',
           items: [
             {
-              id: 30,
+              id: 28,
               name: 'Classic Grey',
               imageUrl: "../images/beds/classicGrey.jpg",
               price: 525
             },
             {
-              id: 31,
+              id: 29,
               name: 'Brown Bunk Bed',
               imageUrl: "../images/beds/brownBunkBed.png",
               price: 200
             },
             {
-              id: 32,
+              id: 30,
               name: 'King Avtar',
               imageUrl: "../images/beds/kingAvtar.jpg",
               price: 700
             },
             {
-              id: 33,
+              id: 31,
               name: 'Queen Style',
               imageUrl: "../images/beds/queenStyle.jpg",
               price: 1025
             },
             {
-              id: 34,
+              id: 32,
               name: 'Royal Quilt',
               imageUrl: "../images/beds/royalQuilt.jpg",
               price: 1425
             },
             {
-              id: 35,
+              id: 33,
               name: 'Wooden Compact',
               imageUrl: "../images/beds/woodenCompact.jpg",
               price: 150
